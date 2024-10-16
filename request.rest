@@ -1,0 +1,6 @@
+POST http://localhost:3500/api/v1/task?scope=External
+Content-Type: application/json
+
+{
+    "user_id" : "1247"
+}
